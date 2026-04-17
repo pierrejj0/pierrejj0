@@ -2,7 +2,7 @@
 
 
 ### 🚀 Sobre mí
-*🌱 Soy estudiante de 4to nivel de **Ingeniería en Software** en  UNEMI. 
+ *🌱 Soy estudiante de 4to nivel de **Ingeniería en Software** en  UNEMI. 
 * 💻 Actualmente enfocado en dominar la **Programación Orientada a Objetos (POO)** y la lógica estructurada.
 * 🧠 Me apasiona el desarrollo tecnológico y la resolución de problemas a través del código.
 * 🧑🏼‍💻Valoro mucho la organización y el trabajo en equipo en el mundo académico y del desarrollo.
