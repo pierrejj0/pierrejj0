@@ -1,6 +1,6 @@
-# ¡Hola! Soy Jean 👋
+# ¡Hola! Soy Jean Jiménez👋
 
-Soy estudiante de 4to nivel de **Ingeniería en Software** en la UNEMI. Me apasiona el desarrollo tecnológico y la resolución de problemas a través del código. Como presidente de curso, valoro mucho la organización, el liderazgo y el trabajo en equipo en el mundo académico y del desarrollo.
+Soy estudiante de 4to nivel de **Ingeniería en Software** en  UNEMI. Me apasiona el desarrollo tecnológico y la resolución de problemas a través del código. Valoro mucho la organización y el trabajo en equipo en el mundo académico y del desarrollo.
 
 ### 🚀 Sobre mí
 * 💻 Actualmente enfocado en dominar la **Programación Orientada a Objetos (POO)** y la lógica estructurada.
