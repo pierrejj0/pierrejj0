@@ -3,10 +3,19 @@
 Soy estudiante de 4to nivel de **Ingeniería en Software** en la UNEMI. Me apasiona el desarrollo tecnológico y la resolución de problemas complejos. Como presidente de curso, valoro la organización, el liderazgo y el trabajo en equipo, creyendo firmemente que la colaboración es la clave para la innovación en software.
 
 ---
-## 🛠️ Funcionalidades | Features
-- **Status Monitoring:** Revisa el nivel de batería y el uso de memoria RAM.
-- **Resource Management:** Las acciones como correr programas consumen energía.
-- **Charging System:** Sistema para restaurar la batería al 100%.
+## 🛠️ Funcionalidades
+<p align="center">
+  <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://react.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://www.mysql.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://github.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://git-scm.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+</p>
+
+---
 
 ### 📫 Contacto
 
