@@ -1,9 +1,11 @@
 # ¡Hola! Soy Jean Jiménez👋
 
-Soy estudiante de 4to nivel de **Ingeniería en Software** en  UNEMI. Me apasiona el desarrollo tecnológico y la resolución de problemas a través del código. Valoro mucho la organización y el trabajo en equipo en el mundo académico y del desarrollo.
 
 ### 🚀 Sobre mí
+*🌱 Soy estudiante de 4to nivel de **Ingeniería en Software** en  UNEMI. 
 * 💻 Actualmente enfocado en dominar la **Programación Orientada a Objetos (POO)** y la lógica estructurada.
+* 🧠 Me apasiona el desarrollo tecnológico y la resolución de problemas a través del código.
+* 🧑🏼‍💻Valoro mucho la organización y el trabajo en equipo en el mundo académico y del desarrollo.
 ### 🛠️ Stack Tecnológico
 
 **Lenguajes y Backend** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
