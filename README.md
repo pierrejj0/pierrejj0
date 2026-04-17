@@ -1,9 +1,14 @@
 # ¡Hola! Soy Jean Jiménez👋
 
-Soy estudiante de 4to nivel de **Ingeniería en Software** en la UNEMI. Me apasiona el desarrollo tecnológico y la resolución de problemas complejos. Como presidente de curso, valoro la organización, el liderazgo y el trabajo en equipo, creyendo firmemente que la colaboración es la clave para la innovación en software.
+Soy estudiante de 4to nivel de **Ingeniería en Software** en la UNEMI. Me apasiona el desarrollo tecnológico y la resolución de problemas complejos. Como presidente 
+
+
+de curso, valoro la organización, el liderazgo y el trabajo en equipo, creyendo firmemente que la colaboración es la clave para la innovación en software.
 
 ---
 ## 🛠️ Funcionalidades
+He estado aprendiendo y trabajando con estas herramientas:
+
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
@@ -20,10 +25,6 @@ Soy estudiante de 4to nivel de **Ingeniería en Software** en la UNEMI. Me apasi
 
 * 📧 **Correo:** [pi.jean18.2006@gmail.com](mailto:pi.jean18.2006@gmail.com)
 * 💼 Puedes encontrarme en [LinkedIn](PON_AQUI_TU_LINK_DE_LINKEDIN) *(Nota: reemplaza el texto entre paréntesis con tu enlace real si tienes uno, si no, puedes borrar esta línea)*
-
-### 🛠️ Stack Tecnológico
-
-He estado aprendiendo y trabajando con estas herramientas:
 
 
 ---
