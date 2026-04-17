@@ -1,9 +1,14 @@
-- 👋 Hola, me llamo Jean Pierre, tengo 18 años, actualmente soy un estudiante de Ingenieria en Software, en UNEMI.
-- 🤖 Me atrae todo lo que tenga ver con la tecnología, ya que es un mundo lleno de oportunidades para aprender, crear e innovar.
-- 🍃Estoy aprendiendo a programar en javascript, CSS y HTML.
-- 📫 Contactame por: pi.jean18.2006@gmail.com
+# ¡Hola! Soy Jean 👋
 
-<!---
-pierrejj0/pierrejj0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy estudiante de 4to nivel de **Ingeniería en Software** en la UNEMI. Me apasiona el desarrollo tecnológico y la resolución de problemas a través del código. Como presidente de curso, valoro mucho la organización, el liderazgo y el trabajo en equipo en el mundo académico y del desarrollo.
+
+### 🚀 Sobre mí
+* 💻 Actualmente enfocado en dominar la **Programación Orientada a Objetos (POO)** y la lógica estructurada.
+* 🛠️ **Tecnologías y Lenguajes:** Python, HTML, CSS, JavaScript.
+* 🎓 Siempre buscando nuevos retos para aprender, crear e innovar en el desarrollo de software.
+
+### 📫 ¿Cómo contactarme?
+* 📧 Correo: pi.jean18.2006@gmail.com
+
+---
+*"El código no es solo instrucciones para una máquina, es la forma en que estructuramos soluciones."*
